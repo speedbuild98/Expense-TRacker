@@ -2,9 +2,12 @@
 
 This is a simple Expense Tracker application that allows users to add items with their costs, view them, and delete them. The app is built using Firebase for data storage and authentication, Next.js 13 for server-side rendering and routing, and Tailwind CSS with DaisyUI for styling.
 
-![Expense Tracker App](https://github.com/speedbuild98/Expense-TRacker/blob/main/mobile%20(1).png?raw=true)
+<div align="center">
 
 Click [here](https://expense-t-racker-eeb1gecqu-speedbuild98.vercel.app/) to visit the Expense Tracker App.
+
+![Expense Tracker App](https://github.com/speedbuild98/Expense-TRacker/blob/main/mobile%20(1).png?raw=true)  
+</div>
 
 ## Features
 
